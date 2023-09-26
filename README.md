@@ -1,2 +1,2 @@
-# data-engineering-common-exercises
-This collection of exercises is designed to help data engineers of all levels enhance their skills and tackle real-world data engineering challenges. 
+# Data-Engineering-Common-Challenges-And-Solutions
+Welcome to the Data Engineering Exercises Repository! This collection of exercises is designed to help data engineers of all levels enhance their skills and tackle real-world data engineering challenges. Whether you're just starting your data engineering journey or looking to sharpen your expertise, this repository provides a diverse set of problems and projects that cover a wide range of data engineering topics.
